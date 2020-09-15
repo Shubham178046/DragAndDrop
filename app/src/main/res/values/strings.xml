@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DragAndDrop</string>
+    <array name="main_items">
+        <item>List - Basic Drag and Swipe</item>
+        <item>Grid - Basic Swipe</item>
+    </array>
+
+    <array name="dummy_items">
+        <item>Shubham</item>
+        <item>Gautam</item>
+        <item>Jagdish</item>
+        <item>Arbaaz</item>
+        <item>Shivam</item>
+        <item>Jignesh</item>
+        <item>Aayush</item>
+        <item>Lakulash</item>
+        <item>Purvang</item>
+        <item>Ajaz</item>
+    </array>
+</resources>
